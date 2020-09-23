@@ -3,6 +3,7 @@ build
 *.pbxuser
 *.perspectivev3
 QuickCursor.xcodeproj/project.xcworkspace/xcuserdata/
+QuickCursor.xcodeproj/project.xcworkspace/xcshareddata/
 QuickCursor.xcodeproj/xcuserdata/
 QuickCursorEditorExample/QuickCursorEditorExample.xcodeproj/project.xcworkspace/xcuserdata/
 QuickCursorEditorExample/QuickCursorEditorExample.xcodeproj/xcuserdata/
